@@ -1,6 +1,6 @@
 @ECHO OFF
 ECHO Logitech iTouch Cleaner v1.3
-ECHO by Silicon Viper / CNC
+ECHO by Chris Olstrom
 
 ECHO.
 ECHO !!!! WARNING !!!!

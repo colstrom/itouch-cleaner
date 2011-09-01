@@ -4,13 +4,13 @@
 
 <head>
  <title>iTouch Button</title>
- <meta name=author content="Silicon Viper / CNC">
+ <meta name=author content="Chris Olstrom">
 </head>
 
 <body>
  <table width=100% height=100%>
   <td align=center valign=center>
-   <p><font size=+2>Advertisement hacked by<br><a href=mailto:siliconviper@whatthefork.org>Silicon Viper</a></font></p>
+   <p><font size=+2>Advertisement removed by<br><a href=mailto:chris@olstrom.com>Chris Olstrom</a></font></p>
    <p><font size=-1>Fuck Logitech and their product placement.</font></p>
    <p><font size=-1>The link below will execute the correct function</font></p>
    <p><font size=-1><a href="#" onclick='window.external.DoItNow();'>window.external.DoItNow();</a></font></p>
