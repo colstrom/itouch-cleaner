@@ -1,5 +1,5 @@
 @ECHO OFF
-ECHO Logitech iTouch Cleaner v1.0
+ECHO Logitech iTouch Cleaner v1.1
 ECHO by Silicon Viper / CNC
 
 ECHO.
@@ -24,6 +24,7 @@ ECHO.
 IF EXIST header_* ERASE header_*
 IF EXIST content_* ERASE content_*
 IF EXIST footer_* ERASE footer_*
+IF EXIST ..\Images\* ERASE ..\Images\*
 
 ECHO.
 ECHO Done! Enjoy Logitech's iTouch software without product placement!
