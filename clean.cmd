@@ -1,5 +1,5 @@
 @ECHO OFF
-ECHO Logitech iTouch Cleaner v1.2
+ECHO Logitech iTouch Cleaner v1.3
 ECHO by Silicon Viper / CNC
 
 ECHO.
@@ -26,6 +26,7 @@ TYPE .\inject.code > .\First_Button_Use\HTML\frameset_reference.htm
 TYPE .\inject.code > .\First_Button_Use\HTML\frameset_search.htm
 TYPE .\inject.code > .\First_Button_Use\HTML\frameset_shopping.htm
 TYPE .\inject.code > .\First_Button_Use\HTML\frameset_webcam.htm
+COPY .\clean.code .\First_Button_Use\HTML\clean.htm
 
 ECHO.
 ECHO Stage 2: Kill the files that were rendered useless by this script.
